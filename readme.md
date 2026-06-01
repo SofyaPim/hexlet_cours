@@ -1,1 +1,1 @@
-## // запуск теста NODE_OPTIONS=\"--experimental-vm-modules\" jest
+## // hexlet-jest запуск теста NODE_OPTIONS=\"--experimental-vm-modules\" jest
