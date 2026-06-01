@@ -1,0 +1,1 @@
+## // запуск теста NODE_OPTIONS=\"--experimental-vm-modules\" jest
